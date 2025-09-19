@@ -7,25 +7,25 @@ The project further delivers interactive visualizations and a dashboard, offerin
 
 🚀 **Features**
 
-Customer Satisfaction Prediction using ensemble regression models (Random Forest, Gradient Boosting, Stacking).
+- Customer Satisfaction Prediction using ensemble regression models (Random Forest, Gradient Boosting, Stacking).
 
-Sentiment Analysis of customer feedback with DistilBERT (Positive, Negative, Neutral, Irrelevant).
+- Sentiment Analysis of customer feedback with DistilBERT (Positive, Negative, Neutral, Irrelevant).
 
-Data Integration of structured (demographics, purchase frequency) and unstructured (comments) sources.
+- Data Integration of structured (demographics, purchase frequency) and unstructured (comments) sources.
 
-Actionable Insights through key driver identification and segmentation.
+- Actionable Insights through key driver identification and segmentation.
 
-Scalable System Design capable of handling real-time analysis.
+- Scalable System Design capable of handling real-time analysis.
 
 🛠 **Tools & Technologies**
 
-Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+- Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
 
-NLP Models: DistilBERT, Hugging Face Tokenizers
+- NLP Models: DistilBERT, Hugging Face Tokenizers
 
-ML Models: Random Forest Regressor, Gradient Boosting, Stacking Regressor, Linear Regression
+- ML Models: Random Forest Regressor, Gradient Boosting, Stacking Regressor, Linear Regression
 
-Development: Jupyter Notebook, Google Colab
+- Development: Jupyter Notebook, Google Colab
 
 📊 **Implementation**
 
@@ -55,51 +55,39 @@ Evaluation & Deployment
 
 ✅ **Results**
 
-Accuracy: ~90% across sentiment classes
+- Accuracy: ~90% across sentiment classes
 
-High precision & recall, ensuring reliable predictions
+- High precision & recall, ensuring reliable predictions
 
-F1-score close to 1, indicating balanced performance
+- F1-score close to 1, indicating balanced performance
 
 🌍 **Applications**
 
-Social Media Monitoring (Twitter, Instagram, Facebook sentiment)
+- Social Media Monitoring (Twitter, Instagram, Facebook sentiment)
 
-Customer Feedback Analysis (surveys, reviews, comments)
+- Customer Feedback Analysis (surveys, reviews, comments)
 
-Market Research & Consumer Behavior Analysis
+- Market Research & Consumer Behavior Analysis
 
-Brand Reputation Management
+- Brand Reputation Management
 
-Political Sentiment Tracking
+- Political Sentiment Tracking
 
-Sentiment-driven Financial Trading
+- Sentiment-driven Financial Trading
 
 🔮 **Future Scope**
 
-Data augmentation for diverse feedback coverage
+- Data augmentation for diverse feedback coverage
 
-Hyperparameter tuning & transformer model exploration
+- Hyperparameter tuning & transformer model exploration
 
-Handling class imbalance with oversampling/weighting
+- Handling class imbalance with oversampling/weighting
 
-Multilingual sentiment analysis support
+- Multilingual sentiment analysis support
 
-Real-time streaming sentiment dashboards
+- Real-time streaming sentiment dashboards
 
-Expanded datasets for robust generalization
-
-👩‍💻 **Contributors**
-
-Dia Sharma
-
-Sheewam Kumar
-
-Yashvi Bhuwalka
-
-Ayush Anand
-
-Under the guidance of Prof. Lakshmi B N, Assistant Professor, Department of CSE (Data Science), Bangalore Institute of Technology
+- Expanded datasets for robust generalization
 
 📜 **License**
 
